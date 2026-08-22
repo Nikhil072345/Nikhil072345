@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Live project
+[View the Modern React Showcase](https://5633eb0e-064e-4792-a897-b1956eabb020-00-12xjubz0mmw0d.sisko.replit.dev/)
